@@ -29,7 +29,7 @@ def handle_client(client):
       aliases.remove(alias) 
       break 
 
-# Main function to receive the clients connection 
+# Main function to receive the client's connection 
 
 def receive(): 
   while True: 
